@@ -1,0 +1,3 @@
+//JavaScript program to swap two variables
+//JavaScript program to swap image src onclick button
+//JavaScript program to swap text onclick button
